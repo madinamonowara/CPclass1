@@ -2,8 +2,6 @@
 
 ## FLASHCARD APP by Madina Monowara
 
-📝 `NOTE:` Paste the README templates for each subsequent lab here at the top, (i.e. lab 2, 3, 4). This will show a history of your development process including which users stories you completed and how your app looked and functioned at each step.
-
 ## Lab 1
 
 ### App Description
@@ -11,7 +9,7 @@ Flashcard App - tap the card to reveal the answer
 
 ### App Walk-though
 
-<img src="https://user-images.githubusercontent.com/81177928/191282105-0ffdddea-8911-4883-b9cd-00db330581c1.gif"><br>
+<img src="https://user-images.githubusercontent.com/81177928/191282105-0ffdddea-8911-4883-b9cd-00db330581c1.gif" width=200><br>
 
 
 ## Required
