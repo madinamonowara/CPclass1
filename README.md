@@ -7,21 +7,19 @@
 ## Lab 1
 
 ### App Description
-`TODO://` Add app description
+Flashcard App - tap the card to reveal the answer
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://user-images.githubusercontent.com/81177928/191281140-cda5d40b-5dbd-4b2d-9ed2-5ad88170531b.gif"><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ## Required
 - [x] Create New Project in Xcode
 - [x] Add a view for the front side of the flashcard to display the question
 - [x] Add a view for the back side of the flashcard to display the answer
 - [x] Build in logic to show the answer side when the card is tapped
-- [ ] Push code to GitHub
+- [x] Push code to GitHub
 ## Optional
 - [ ] Toggle the flashcard between the question side and the answer side
 - [ ] Style the question and answer side of the card to better distinguish between the two sides
