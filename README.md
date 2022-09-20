@@ -9,7 +9,7 @@ Flashcard App - tap the card to reveal the answer
 
 ### App Walk-though
 
-<img src="https://user-images.githubusercontent.com/81177928/191282105-0ffdddea-8911-4883-b9cd-00db330581c1.gif" width=200><br>
+<img src="https://user-images.githubusercontent.com/81177928/191282105-0ffdddea-8911-4883-b9cd-00db330581c1.gif" width=300><br>
 
 
 ## Required
